@@ -18,8 +18,7 @@ It uses a **multi-stage Docker build** for better performance, security, and sma
  📁 Project Structure
 
 ```
-ecommerce-site<img width="1246" height="866" alt="Screenshot 2026-01-12 113622" src="https://github.com/user-attachments/assets/aed2a254-7b79-4fed-ac17-bf007bce557a" />
-/
+ecommerce-site/
 ├── src/
 ├── public/
 ├── package.json
